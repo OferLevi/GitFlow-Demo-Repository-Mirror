@@ -1,1 +1,6 @@
 A new file I added. After commiting this change - the feature is ready to be integrated with Develop branch
+
+
+
+
+Adding this line as an example for a fix made after the version is already released and new versions exist...
