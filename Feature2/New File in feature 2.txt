@@ -1,1 +1,9 @@
 The last file I create in Feature2. Was created between the first Commit of Feature 2 and the first Commit in Feature 3.
+
+
+
+
+
+
+
+I'm adding to line as an example of a fix for a bug QA found (before release).
